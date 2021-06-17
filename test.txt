@@ -1,3 +1,4 @@
-Hello , 
+Hello , Welcome to Git and GitHub.
       My Name is Nitin Dake.
       and I am learning Git and GitHub.
+      in next we will learn git commit command.
